@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  9 13:32:20 2018
 
-@author: i
+@author: Nirav Shah
 """
 import gzip
 import numpy as np
